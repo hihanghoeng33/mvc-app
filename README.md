@@ -9,6 +9,7 @@ MVC (MODEL, VIEW, CONTROLLER)
 - Controller ==> proses
 - Model ==> data
 - View ==> tampilan
+
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqKS5Ec6jWdOG8lsiaU2dr3AmndpMuGMfkjg&s)
 
 ## Kenapa MVC
