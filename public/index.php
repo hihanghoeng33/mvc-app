@@ -18,7 +18,7 @@ $app = new App();
 </head>
 
 <body>
-    <div class="text-black">Kalo udah disini berarti berhasil</div>
+
 </body>
 
 </html>
